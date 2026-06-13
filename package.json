@@ -1,0 +1,20 @@
+{
+  "name": "abap-kit",
+  "version": "1.0.0",
+  "description": "ABAP development CLI for scaffolding projects",
+  "type": "module",
+  "bin": {
+    "abap-kit": "bin/cli.mjs"
+  },
+  "author": {
+    "name": "furkancosgun",
+    "email": "furkancosgun@example.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/furkancosgun/abap-kit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furkancosgun/abap-kit.git"
+  },
+  "keywords": "abap,cli,scaffold,development"
+}
