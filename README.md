@@ -56,7 +56,7 @@ When you run the CLI with the CI option, it generates a GitHub Actions workflow 
 Example:
 
 ```bash
-abap-kit create my-abap-project --ci
+abap-kit ci
 ```
 
 This creates a workflow file at:
@@ -68,8 +68,6 @@ The generated workflow runs on pushes and pull requests to the `main` branch and
 - `npm install`
 - `npm run lint`
 - `npm run unit`
-
-This repository itself does not contain a dedicated CI workflow.
 
 ## License
 

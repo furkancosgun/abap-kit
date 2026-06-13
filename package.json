@@ -1,6 +1,6 @@
 {
   "name": "abap-kit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ABAP development CLI for scaffolding projects",
   "type": "module",
   "bin": {
@@ -16,5 +16,10 @@
     "type": "git",
     "url": "git+https://github.com/furkancosgun/abap-kit.git"
   },
-  "keywords": "abap,cli,scaffold,development"
+  "keywords": [
+    "abap",
+    "cli",
+    "scaffold",
+    "development"
+  ]
 }
